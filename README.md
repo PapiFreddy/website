@@ -64,3 +64,7 @@ Si deseas agregar contenido haz un Pull Request o si tambien quieres hablar con 
 **Hecha con <3 por [Scidroid](https://GitHub.com/scidroid) para FreddyFalso**
 
 **[Source Code](https://GitHub.com/Scidroid/papifreddy)**
+
+Pagina de fans, imagenes sacadas de google.
+
+Copyright © SciDroid 2020
