@@ -1,12 +1,13 @@
-### Papi Freddy 
+### Papi Freddy, un ejemplo a seguir 
 
-- Es de venezuela, pero ahora vive en USA
-- Es muy buen programador hasta creo una vaina que se llama [Crafy](https://crafy.net "Crafy")
+- Es de venezuela, pero ahora vive en USA un KPO
+- Es muy buen programador hasta creo una vaina que se llama [Crafy](https://crafy.net "Crafy") que nadie entiende pero lo creo papi Freddy asi que es jodidamente bueno
 - Tiene [github](https://github.com/freddyjd "github"), aunque es alto SIMP alli
-- Es el mejor streamer 2020
-- Es el mejor youtuber 2020
+- Es el mejor [streamer](https://twitch.tv/freddyfalso) 2020
+- Es el mejor [youtuber](https://Youtube.com/freddyespanol) 2020
 - Es el puto amo y es [famoso](https://www.trilogyed.com/blog/just-say-yes-how-boot-camp-helped-this-18-year-old-from-venezuela-pursue-his-american-dream/ "famoso")
 - repito en github es alto [SIMP](https://twitter.com/scidroid/status/1319088000211570688 "SIMP")
+- Sigue a [Scidroid](https://scidroid.live) en GitHub, no un máquina.
 
 ## Checklist para saber si eres un niño retrasado de corazon
 
