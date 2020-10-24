@@ -7,7 +7,7 @@
 - Es el mejor [youtuber](https://Youtube.com/freddyespanol) 2020
 - Es el puto amo y es [famoso](https://www.trilogyed.com/blog/just-say-yes-how-boot-camp-helped-this-18-year-old-from-venezuela-pursue-his-american-dream/ "famoso")
 - repito en github es alto [SIMP](https://twitter.com/scidroid/status/1319088000211570688 "SIMP")
-- Sigue a [Scidroid](https://scidroid.live) en GitHub, no un máquina.
+- Papi freddy sigue a [Scidroid](https://scidroid.live) en GitHub, un KPO el freddy.
 
 ## Checklist para saber si eres un niño retrasado de corazon
 
