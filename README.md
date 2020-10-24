@@ -1,4 +1,5 @@
 # Papi Freddy, un ejemplo a seguir 
+[Síguelo en sus redes sociales UwU](allmylinks.com/freddyfalso)
 
 ## **Tabla de contenido**
 
