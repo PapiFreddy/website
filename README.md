@@ -1,6 +1,6 @@
-### Papi Freddy, un ejemplo a seguir 
+# Papi Freddy, un ejemplo a seguir 
 
-**Tabla de contenido**
+## **Tabla de contenido**
 
 - [Porque Papi Freddy es el puto amo](https://papifreddy.tk/#porque-papi-fredyy-es-el-puto-amo)
 - [Checklist para saber si eres un niño retrasado de corazon](https://papifreddy.tk/#checklist-para-saber-si-eres-un-ni%C3%B1o-retrasado-de-corazon)
@@ -30,7 +30,6 @@
     - [ ] Viva el comunismo
 
 ## Imagenes de freddy
-=============
 
 [![Freddy AEGAO](https://i.redd.it/nl1r45tru6p51.png "Freddy AEGAO")](https://i.redd.it/nl1r45tru6p51.png "Freddy AEGAO")
 
