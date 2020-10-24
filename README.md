@@ -52,6 +52,8 @@ FREDDY WTF
 
 Freddy joven
 
+Si deseas agregar contenido haz un Pull Request o si tambien quieres hablar con nosotros, mandanos un correo a ayuda@papifreddy.tk.
+
 **Hecha con <3 por [Scidroid](https://GitHub.com/scidroid) para FreddyFalso**
 
 **[Source Code](https://GitHub.com/Scidroid/papifreddy)**
