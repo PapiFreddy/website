@@ -52,4 +52,6 @@ FREDDY WTF
 
 Freddy joven
 
-**Hecha con por [Scidroid](https://GitHub.com/scidroid) <3 para FreddyFalso**
+**Hecha con <3 por [Scidroid](https://GitHub.com/scidroid) para FreddyFalso**
+
+**[Source Code](https://GitHub.com/Scidroid/papifreddy)**
