@@ -1,6 +1,6 @@
 ### Papi Freddy 
 
-- Es de venezuela, pero ahora vve en USA
+- Es de venezuela, pero ahora vive en USA
 - Es muy buen programador hasta creo una vaina que se llama [Crafy](https://crafy.net "Crafy")
 - Tiene [github](https://github.com/freddyjd "github"), aunque es alto SIMP alli
 - Es el mejor streamer 2020
