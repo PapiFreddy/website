@@ -2,13 +2,9 @@
 
 **Tabla de contenido**
 
-[TOCM]
-
-[TOC]
-
-#Porque Papi Fredyy es el puto amo
-#Checklist para saber si eres un niño retrasado de corazon
-#Imagenes de freddy
+[Porque Papi Freddy es el puto amo](https://papifreddy.tk/#porque-papi-fredyy-es-el-puto-amo)
+[Checklist para saber si eres un niño retrasado de corazon](https://papifreddy.tk/#checklist-para-saber-si-eres-un-ni%C3%B1o-retrasado-de-corazon)
+[Imagenes de freddy]()
 
 ## Porque Papi Fredyy es el puto amo
 
@@ -33,7 +29,7 @@
     - [ ] Las mujeres no son graciosas
     - [ ] Viva el comunismo
 
-Imagenes de freddy
+## Imagenes de freddy
 =============
 
 [![Freddy AEGAO](https://i.redd.it/nl1r45tru6p51.png "Freddy AEGAO")](https://i.redd.it/nl1r45tru6p51.png "Freddy AEGAO")
