@@ -39,7 +39,16 @@ pipo
 
 con la dentista (Eso creo)
 
+[![Freddy te quiero mucho](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnJMwfVOXCU7jcQmBcc4_7itcU-0hgPsIMVA&usqp=CAU "Freddy te quiero mucho")]
 
+Freddy te quiero mucho
 
+[![Freddy WTF](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlA0E-h1A2f8QO7FohPmFFpzgDMyngnEJC4A&usqp=CAU "Freddy WTF")]
 
-**Hecha com <3 para FreddyFalso**
+FREDDY WTF
+
+[![Freddy joven](https://i.ytimg.com/vi/3811-eCrEAI/maxresdefault.jpg "Freddy JOVEN)]
+
+Freddy joven
+
+**Hecha con por [Scidroid](https://GitHub.com/scidroid) <3 para FreddyFalso**
