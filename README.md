@@ -1,5 +1,17 @@
 ### Papi Freddy, un ejemplo a seguir 
 
+**Tabla de contenido**
+
+[TOCM]
+
+[TOC]
+
+#Porque Papi Fredyy es el puto amo
+#Checklist para saber si eres un niño retrasado de corazon
+#Imagenes de freddy
+
+## Porque Papi Fredyy es el puto amo
+
 - Es de venezuela, pero ahora vive en USA un KPO
 - Es muy buen programador hasta creo una vaina que se llama [Crafy](https://crafy.net "Crafy") que nadie entiende pero lo creo papi Freddy asi que es jodidamente bueno
 - Tiene [github](https://github.com/freddyjd "github"), aunque es alto SIMP alli
