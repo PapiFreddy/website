@@ -1,10 +1,10 @@
 # Papi Freddy, un ejemplo a seguir 
-[Síguelo en sus redes sociales UwU](allmylinks.com/freddyfalso)
+[Síguelo en sus redes sociales UwU](https://allmylinks.com/freddyfalso)
 
 ## **Tabla de contenido**
 
 - [Porque Papi Freddy es el puto amo](https://papifreddy.tk/#porque-papi-fredyy-es-el-puto-amo)
-- [Ultimo video](https://papifreddy.tk/#ultimo-video)
+- [contenido fresco](https://papifreddy.tk/#contenido-fresco)
 - [Checklist para saber si eres un niño retrasado de corazon](https://papifreddy.tk/#checklist-para-saber-si-eres-un-ni%C3%B1o-retrasado-de-corazon)
 - [Imagenes de freddy](https://papifreddy.tk/#imagenes-de-freddy)
 
@@ -18,10 +18,20 @@
 - Es el puto amo y es [famoso](https://www.trilogyed.com/blog/just-say-yes-how-boot-camp-helped-this-18-year-old-from-venezuela-pursue-his-american-dream/ "famoso")
 - repito en github es alto [SIMP](https://twitter.com/scidroid/status/1319088000211570688 "SIMP")
 - Papi freddy sigue a [Scidroid](https://scidroid.live) en GitHub, un KPO el freddy.
+- extra: presiona este boton y papi freddy se pone feliz
+<a href="https://twitter.com/freddyfalso?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @freddyfalso</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Ultimo video
+
+## contenido fresco
+
+### youtube
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/umLUmlg_fK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### twitch
+
+<blockquote class="embedly-card"><h4><a href="https://twitch.tv/freddyfalso">FreddyFalso - Twitch</a></h4><p>programador con mucha emoción!! ⭐️💥</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Checklist para saber si eres un niño retrasado de corazon
 
@@ -75,53 +85,6 @@ Pagina de fans, imagenes sacadas de google.
 
 Copyright © SciDroid 2020
 
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 si llegaste hasta aqui te quiero mucho
 
 y aqui va un tweet de freddy
