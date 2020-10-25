@@ -19,7 +19,7 @@
 - repito en github es alto [SIMP](https://twitter.com/scidroid/status/1319088000211570688 "SIMP")
 - Papi freddy sigue a [Scidroid](https://scidroid.live) en GitHub, un KPO el freddy.
 - extra: presiona este boton y papi freddy se pone feliz
-<a href="https://twitter.com/freddyfalso?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @freddyfalso</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/freddycobol?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue a freddy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## contenido fresco
