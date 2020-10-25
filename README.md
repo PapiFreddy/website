@@ -4,6 +4,7 @@
 ## **Tabla de contenido**
 
 - [Porque Papi Freddy es el puto amo](https://papifreddy.tk/#porque-papi-fredyy-es-el-puto-amo)
+- [Ultimo video](https://papifreddy.tk/#ultimo-video)
 - [Checklist para saber si eres un niño retrasado de corazon](https://papifreddy.tk/#checklist-para-saber-si-eres-un-ni%C3%B1o-retrasado-de-corazon)
 - [Imagenes de freddy](https://papifreddy.tk/#imagenes-de-freddy)
 
@@ -17,6 +18,10 @@
 - Es el puto amo y es [famoso](https://www.trilogyed.com/blog/just-say-yes-how-boot-camp-helped-this-18-year-old-from-venezuela-pursue-his-american-dream/ "famoso")
 - repito en github es alto [SIMP](https://twitter.com/scidroid/status/1319088000211570688 "SIMP")
 - Papi freddy sigue a [Scidroid](https://scidroid.live) en GitHub, un KPO el freddy.
+
+## Ultimo video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/umLUmlg_fK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Checklist para saber si eres un niño retrasado de corazon
 
@@ -69,3 +74,58 @@ Si deseas agregar contenido haz un Pull Request o si tambien quieres hablar con 
 Pagina de fans, imagenes sacadas de google.
 
 Copyright © SciDroid 2020
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+si llegaste hasta aqui te quiero mucho
+
+y aqui va un tweet de freddy
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">miren salgo en la portada de playboy <a href="https://t.co/kl1vYy90U4">pic.twitter.com/kl1vYy90U4</a></p>&mdash; Freddy (@FreddyCobol) <a href="https://twitter.com/FreddyCobol/status/1319773820383907840?ref_src=twsrc%5Etfw">23 de octubre de 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+uwu
