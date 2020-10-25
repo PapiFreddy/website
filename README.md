@@ -1,4 +1,8 @@
 # Papi Freddy, un ejemplo a seguir 
+Esta es la pagina de fans de freddyfalso, hecha en MarkDown para que todos la puedan editar facilmente, y aunque todo este desorganizado, siempe buscamos algo, agradecerle a papi freddy por todo el contenido que hace y por entretenernos cada dia. 
+
+Unete al discord pulsando [Aqui](https://invite.gg/freddy)
+
 [Síguelo en sus redes sociales UwU](https://allmylinks.com/freddyfalso)
 
 ## **Tabla de contenido**
@@ -83,12 +87,7 @@ Si deseas agregar contenido haz un Pull Request o si tambien quieres hablar con 
 
 Pagina de fans, imagenes sacadas de google.
 
-Copyright © SciDroid 2020
+si llegaste hasta aqui es porque te gusto la pagina, si quieres puedes compartir la pagina en twitter
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Hoy vi la pagina de fans de Freddy, esta super buena vayan a verla" data-url="https://papifreddy.tk" data-hashtags="papifreddy" data-related="freddycobol" data-lang="es" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-si llegaste hasta aqui te quiero mucho
-
-y aqui va un tweet de freddy
-
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">miren salgo en la portada de playboy <a href="https://t.co/kl1vYy90U4">pic.twitter.com/kl1vYy90U4</a></p>&mdash; Freddy (@FreddyCobol) <a href="https://twitter.com/FreddyCobol/status/1319773820383907840?ref_src=twsrc%5Etfw">23 de octubre de 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-uwu
+Copyright © SciDroid 2020, Te Quiero  Mucho
