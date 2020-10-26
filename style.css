@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color:blueviolet;
+    font-weight: bold;
+    
+}
+.explicacion{
+    width:50%;
+}
+#fpa{
+    width:50%
+
+}
+li{
+    padding-left: 10px;
+}
+.photos{
+    display:block;
+    margin:auto;
+    text-align: center;
+}
