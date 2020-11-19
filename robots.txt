@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /cgi-bin
 
-Sitemap: https://scidroid.live/sitemap.xml
+Sitemap: https://papifreddy.tk/sitemap.xml
